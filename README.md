@@ -1,4 +1,4 @@
-# SimpleHSMSimulator
+# Simple HSM Simulator
 * Simple Windows Forms HSM Simulator to be used in AES key ceremony.
 * AES key ceremonies are done with key exchanges.
 * These key exchanges are not done in a clear key form.
